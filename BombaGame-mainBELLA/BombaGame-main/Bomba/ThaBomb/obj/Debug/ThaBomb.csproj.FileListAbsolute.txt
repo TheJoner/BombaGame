@@ -1,0 +1,41 @@
+C:\Users\Stefano Volpi\Desktop\ThaBomb\bin\Debug\ThaBomb.exe.config
+C:\Users\Stefano Volpi\Desktop\ThaBomb\bin\Debug\ThaBomb.exe
+C:\Users\Stefano Volpi\Desktop\ThaBomb\bin\Debug\ThaBomb.pdb
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.csproj.AssemblyReference.cache
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.Menu.resources
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.Properties.Resources.resources
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.csproj.GenerateResource.cache
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.csproj.CoreCompileInputs.cache
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.exe
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.pdb
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.Guoco.resources
+C:\Users\Stefano Volpi\Desktop\ThaBomb\obj\Debug\ThaBomb.Options.resources
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\bin\Debug\ThaBomb.exe.config
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\bin\Debug\ThaBomb.exe
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\bin\Debug\ThaBomb.pdb
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.AssemblyReference.cache
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.Menu.resources
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.Guoco.resources
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.Options.resources
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.Properties.Resources.resources
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.GenerateResource.cache
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.CoreCompileInputs.cache
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.exe
+C:\Users\volpi.19047\Desktop\Bomba\ThaBomb\obj\Debug\ThaBomb.pdb
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.AssemblyReference.cache
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.Menu.resources
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.Guoco.resources
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.Options.resources
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.Properties.Resources.resources
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.SevenSegment.resources
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.GenerateResource.cache
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.csproj.CoreCompileInputs.cache
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.exe
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.pdb
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\bin\Debug\ThaBomb.exe.config
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\bin\Debug\ThaBomb.exe
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\bin\Debug\ThaBomb.pdb
+C:\Users\montanelli.19424\Desktop\BombaGame-mainBELLA\BombaGame-main\Bomba\ThaBomb\obj\Debug\ThaBomb.SevenSegmentArrays.resources
